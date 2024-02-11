@@ -1,17 +1,40 @@
-# flutternews
 
-A new Flutter project.
+# Flutter Bloc News App
 
-## Getting Started
+A beautiful and iser-friendly news app built with flutter that demonstrates the use of flutter_bloc to achieve separation of concerns. It helps you to keep your code properly managed and separates the UI, business logic and network login in three different sections 🙂
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+- News in a single click 
+- Read the news based on your intersts and preferences 
+- User friendly interface 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_bloc_news_app
+# Installation
+
+Clone this repository and run the project with the below command. Make sure you have the flutter installed and properly configured. You can use the android/ios emulator to run the application or even a physical device.
+
+
+- Install the required packages after cloning 
+
+```bash
+  flutter pub get
+```
+
+- Run the application
+```bash
+  flutter run 
+```
+    
+# Built With ⚒️
+- Flutter 
+- News API
+- Flutter Bloc
+- Flutter animate 
+
+
+# Screenshots
+![Frame 2demo](https://github.com/sahil-gpm/flutter_bloc_news_app/assets/142314251/774b3649-39ff-4139-8ead-6004a518d210)
+
+
+#### Thanks for reading 🎉😊
