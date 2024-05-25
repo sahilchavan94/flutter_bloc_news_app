@@ -1,7 +1,7 @@
 
 # Flutter Bloc News App
 
-A beautiful and user-friendly news app built with flutter that demonstrates the use of flutter_bloc to achieve separation of concerns. It helps you to keep your code properly managed and separates the UI, business logic and network logic in three different sections. Though some features are yet to be implemented but still it's a pretty nice app for me.
+A beautiful and user-friendly news app built with flutter that demonstrates the use of flutter_bloc to achieve separation of concerns. It helps you to keep your code properly managed and separates the UI, business logic and network logic in three different sections. Though some features are yet to be implemented but still it's a pretty nice app for me. ( Latest code is on the dev branch )
 
 # Features
 
